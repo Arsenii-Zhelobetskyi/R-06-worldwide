@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 ccs modules;
 react routing;
+nested routes;
+fake API;
