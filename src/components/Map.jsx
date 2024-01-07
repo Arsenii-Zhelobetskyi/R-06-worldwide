@@ -24,7 +24,7 @@ function Map() {
   } = useGeolocation();
 
   // to set use setSearchParams({ lat: 0, lng: 0 }})
-  console.log(mapPosition);
+  
   useEffect(() => {
     if (mapLat && mapLng) setMapPosition([mapLat, mapLng]);
   }, [mapLat, mapLng]);
