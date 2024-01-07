@@ -16,3 +16,5 @@ custom hooks;
 custom nested hooks;
 react-leaflet;
 reverse geocoding;
+fake-auth;
+protected routes;
