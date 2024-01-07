@@ -11,3 +11,8 @@ ccs modules;
 react routing;
 nested routes;
 fake API;
+Context API + custom hook;
+custom hooks;
+custom nested hooks;
+react-leaflet;
+reverse geocoding;
