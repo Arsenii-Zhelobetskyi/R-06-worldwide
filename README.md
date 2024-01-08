@@ -3,7 +3,7 @@
 <h3 align="center" >⚛️App was created during the Jonas Schmedtmann react course⚛️</h3>
 
 ## ▶️Demonstration:
-![image](https://drive.google.com/uc?export=download&id=1KA_uPO8exQTaYms6PYHeuIjlWVYb_HpB)
+<img src="./public/worldwise.gif" />
 
 ## 🚀This app is example of:
 - 👖 How to use css modules;
