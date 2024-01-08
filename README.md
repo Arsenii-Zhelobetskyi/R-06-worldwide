@@ -1,20 +1,29 @@
-# React + Vite
+<h1 align="center">🌍Worldwise🌍</h1>
+<h3 align="center">🗺️Simple app to take records of places you ever be🗺️</h3>
+<h3 align="center" >⚛️App was created during the Jonas Schmedtmann react course⚛️</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ▶️Demonstration:
+![image](https://drive.google.com/uc?export=download&id=1KA_uPO8exQTaYms6PYHeuIjlWVYb_HpB)
 
-Currently, two official plugins are available:
+## 🚀This app is example of:
+- 👖 How to use css modules;
+- 🛣️ How to use react routing;
+- 🪬 How to use fake API;
+- 📖 How to use Context API + Custom Hook;
+- 🪝 How to use Custom Hooks;
+- 🗺️ How to use React-leaflet;
+- 🪧 How to use fake-auth and protected routes;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👟To run this app localy you should:
+- 🧑‍🤝‍🧑 Clone the repository;
+- 🏃‍♂️ Run fakeAPI with command `npm run server`
+- 🏃‍♀️ Run app with `npm run dev`
 
-ccs modules;
-react routing;
-nested routes;
-fake API;
-Context API + custom hook;
-custom hooks;
-custom nested hooks;
-react-leaflet;
-reverse geocoding;
-fake-auth;
-protected routes;
+<div align="center">
+
+
+
+[![my_button](https://img.shields.io/badge/🟦🟨-37a779?style=for-the-badge)](https://www.youtube.com/watch?v=G510jeWiaV0)
+
+</div>
+
