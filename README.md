@@ -17,7 +17,7 @@
 - 🪧 How to use fake-auth and protected routes;
 - 🚄 How to realize lazy-loading optimization;
 
-## 👟To run this app localy you should:
+## 👟To run this app locally you should:
 
 - 🧑‍🤝‍🧑 Clone the repository;
 - 🏃‍♂️ Run fakeAPI with command `npm run server`
